@@ -1,0 +1,64 @@
+body {
+    background-color: #4915F8;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family:sans-serif;
+    
+    color: #D8CBFD;
+
+}
+
+.header {
+    display: flex;
+    flex-direction: row;    
+}
+
+
+input[type='button'] {
+    padding: 7px 20px;
+    font-weight: bold;
+    border: 0px;
+    border-radius: 25px;
+}
+
+.header a {
+    text-decoration: none;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+
+.section-1 {
+    display: flex;
+    flex-direction: row;    
+}
+
+.section-2 {
+    display: flex;
+    flex-direction: row;    
+}
+
+.section-3 {
+    display: flex;
+    flex-direction: row;    
+}
+
+.section-3 a {
+    font-weight: bold;
+}
